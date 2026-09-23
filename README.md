@@ -5,15 +5,8 @@ E-commerce desarrollado con **React + Vite** para la **Pre-Entrega del curso Tal
 ## 🚀 Demo
 
 - **Deploy:** _(pegar URL de Vercel cuando lo tengas)_
-- **Repositorio:** [https://github.com/TU-USUARIO/app-talento-tech](https://github.com/TU-USUARIO/app-talento-tech)
+- **Repositorio:** [https://github.com/TU-USUARIO/app-talento-tech](https://github.com/errs333/app-talento-tech)
 
-## 📋 Requerimientos cumplidos
-
-- ✅ **#1** Estructura organizada + Layout con Header, nav y Footer con tarjetas de equipo
-- ✅ **#2** Catálogo con fetch a `productos.json` + componente reutilizable `Item.jsx`
-- ✅ **#3** Ruteo con `react-router-dom` + `<Link>` en NavBar
-- ✅ **#4** Carrito con Context API (agregar desde detalle, badge en header, vista de carrito)
-- ✅ **#5** Deploy en Vercel
 
 ## 🛠️ Tecnologías
 
@@ -26,7 +19,7 @@ E-commerce desarrollado con **React + Vite** para la **Pre-Entrega del curso Tal
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/app-talento-tech.git
+git clone https://github.com/errs333/app-talento-tech.git
 cd app-talento-tech
 npm install
 npm run dev
