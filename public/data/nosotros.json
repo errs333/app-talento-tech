@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucía Fernández",
+    "email": "lucia.fernandez@talentotech.com",
+    "puesto": "CEO",
+    "foto": "/images/avatar1.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Martín Gómez",
+    "email": "martin.gomez@talentotech.com",
+    "puesto": "CTO",
+    "foto": "/images/avatar2.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Sofía Ramírez",
+    "email": "sofia.ramirez@talentotech.com",
+    "puesto": "Directora de Producto",
+    "foto": "/images/avatar3.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Diego Álvarez",
+    "email": "diego.alvarez@talentotech.com",
+    "puesto": "Lead Designer",
+    "foto": "/images/avatar4.svg"
+  }
+]
