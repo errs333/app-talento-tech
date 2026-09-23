@@ -2,12 +2,6 @@
 
 E-commerce desarrollado con **React + Vite** para la **Pre-Entrega del curso Talento Tech**.
 
-## 🚀 Demo
-
-- **Deploy:** _(pegar URL de Vercel cuando lo tengas)_
-- **Repositorio:** [https://github.com/TU-USUARIO/app-talento-tech](https://github.com/errs333/app-talento-tech)
-
-
 ## 🛠️ Tecnologías
 
 - React 19 + Vite 8
